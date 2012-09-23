@@ -1,0 +1,10 @@
+# Temp builds
+tmp/**/*
+
+# OS X
+.DS_Store
+
+target/android/assets
+target/android/bin
+target/ios/KitchenSink/www
+target/ios/KitchenSink/build
